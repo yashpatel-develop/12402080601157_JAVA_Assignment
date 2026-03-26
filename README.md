@@ -1,7 +1,7 @@
 # Java Programming Assignment
 
-**Student Name:** PATEL YASH VINAYKUMAR
-**Enrollment Number:** 12402080601157 
+**Student Name:** PATEL YASH VINAYKUMAR   
+**Enrollment Number:** 12402080601157    
 **Course:** Java Programming  
 **Semester:** 4
 
